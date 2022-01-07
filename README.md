@@ -4,7 +4,7 @@
 
 Meta repo for Substrate based blockchains for the W3F ecosystem including Polkadot and Kusama. Contains all associated repositories for Geometry Labs maintained code. 
 
-#### [Status Page](https://status.icon.geometry.io) 
+#### [Status Page](https://status.substrate.geometry.io/) 
 
 ### Sub-Repos
 
